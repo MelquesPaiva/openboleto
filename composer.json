@@ -20,7 +20,8 @@
         }
     ],
     "require": {
-        "php": ">=7.0"
+        "php": ">=7.4",
+        "quilhasoft/jasperphp": "dev-master"
     },
     "autoload": {
         "psr-4": {
